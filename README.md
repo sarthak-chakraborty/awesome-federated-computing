@@ -66,7 +66,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Learning Private Neural Language Modeling with Attentive Aggregation](https://arxiv.org/pdf/1812.07108), IJCNN 2019. [[Code](https://github.com/shaoxiongji/fed-att)]
 * [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), preprint 
 * [Federated Learning of Out-of-Vocabulary Words](https://arxiv.org/pdf/1903.10635.pdf)
-* [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
+* [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046), SysML 2019
 * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) preprint 2019
 * [Peer-to-peer Federated Learning on Graphs](https://arxiv.org/abs/1901.11173) preprint 
 ### 2018
