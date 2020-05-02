@@ -81,11 +81,11 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097) [[code]](https://github.com/TalwalkarLab/leaf)
 * [Federated Learning for Mobile Keyboard Prediction - Gboard](https://arxiv.org/abs/1811.03604)
 ### 2017
-* [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), AISTATS 2017
 * [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557), NIPS 2017 Workshop. [[code](https://github.com/SAP/machine-learning-diff-private-federated-learning)]
 * [Federated Tensor Factorization for Computational Phenotyping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5652331/), KDD 2017 
 * [Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning.pdf), NIPS 2017
 ### 2016
+* [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), AISTATS 2017
 * [Practical Secure Aggregation for Federated Learning on User-Held Data](https://arxiv.org/abs/1611.04482)
 * [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492)
 ### 2015
