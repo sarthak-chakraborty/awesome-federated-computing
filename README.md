@@ -5,6 +5,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   - [Blogs](#blogs)
   - [Survey Papers](#survey-papers)
   - [Research Papers](#research-papers)
+    - [2020](#2020)
     - [2019](#2019)
     - [2018](#2018)
     - [2017](#2017)
@@ -46,6 +47,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Accelerating DNN Training in Wireless Federated Edge Learning System](https://arxiv.org/pdf/1905.09712.pdf), preprint 
 
 ### 2019
+* [Asynchronous Federated Optimization](https://arxiv.org/pdf/1903.03934.pdf)
 * [The Non-IID Data Quagmire of Decentralized Machine Learning](https://arxiv.org/abs/1910.00189), preprint
 * [Gradient-Leaks: Understanding and Controlling Deanonymization in Federated Learning](https://arxiv.org/abs/1805.05838), preprint
 * [Accelerating DNN Training in Wireless Federated Edge Learning System](https://arxiv.org/abs/1905.09712), preprint
