@@ -33,6 +33,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   
 ## Research Papers
 ### 2020
+* [Federated Deep Reinforcement Learning](https://arxiv.org/pdf/1901.08277.pdf)
 * [Salvaging Federated Learning by Local Adaptation](https://arxiv.org/abs/2002.04758), prepreint
 * [Federated Learning of a Mixture of Global and Local Models](https://arxiv.org/abs/2002.05516), preprint
 * [Federated Learning with Matched Averaging](https://arxiv.org/pdf/2002.06440.pdf), ICLR 2020
@@ -67,6 +68,9 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) preprint 2019
 * [Peer-to-peer Federated Learning on Graphs](https://arxiv.org/abs/1901.11173) preprint 
 ### 2018
+* [Asynchronous Decentralized Parallel Stochastic Gradient Descent](http://proceedings.mlr.press/v80/lian18a/lian18a.pdf), PMLR 2018
+* [Applied Federated Learning: Improving Google Keyboard Query Suggestions](https://arxiv.org/pdf/1812.02903.pdf)
+* [Efficient Decentralized Deep Learning by Dynamic Model Averaging](https://arxiv.org/pdf/1807.03210.pdf)
 * [How to backdoor federated learning](https://arxiv.org/pdf/1807.00459), preprint
 * [Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge](https://arxiv.org/abs/1804.08333)
 * [Federated Kernelized Multi-Task Learning](http://www.sysml.cc/doc/30.pdf)
@@ -81,6 +85,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557), NIPS 2017 Workshop. [[code](https://github.com/SAP/machine-learning-diff-private-federated-learning)]
 * [Federated Tensor Factorization for Computational Phenotyping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5652331/), KDD 2017 
 * [Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning.pdf), NIPS 2017
+* [Asynchronous Stochastic Gradient Descent with Delay Compensation](https://arxiv.org/pdf/1609.08326.pdf), PMLR 2017
 ### 2016
 * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), AISTATS 2017
 * [Practical Secure Aggregation for Federated Learning on User-Held Data](https://arxiv.org/abs/1611.04482)
