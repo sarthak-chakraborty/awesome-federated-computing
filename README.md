@@ -4,12 +4,13 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 ## Contents
   - [Blogs](#blogs)
   - [Survey Papers](#survey-papers)
-  - [Research Papers](#research-papers)
+  - [Synchronous FL](#synchronous-fl)
     - [2019](#2019)
     - [2018](#2018)
     - [2017](#2017)
     - [2016](#2016)
     - [2015](#2015)
+  - [Asynchronous FL](#asynchronous-fl)
   - [Libraries/Frameworks](#librariesframeworks)
   - [Tutorials](#tutorials)
   - [Datasets](#datasets)
@@ -31,7 +32,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf), 2019
 * [Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf), preprint, 2019
   
-## Synchronous Federated Learning
+## Synchronous FL
 ### 2020
 * [Salvaging Federated Learning by Local Adaptation](https://arxiv.org/abs/2002.04758), prepreint
 * [Federated Learning of a Mixture of Global and Local Models](https://arxiv.org/abs/2002.05516), preprint
@@ -88,7 +89,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 ### 2015
 * [Privacy-Preserving Deep Learning](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf), ACM SIGSAC 2015
 
-## Asynchronous Federated Learning
+## Asynchronous FL
 ### 2020
 * [Privacy-Preserving Asynchronous Federated Learning Mechanism for Edge Network Computing](https://pdfs.semanticscholar.org/68ba/d34136b2b0c5e4c077c4b2c20b241326084e.pdf)
 * [Data-Driven, Bottom-up, Asynchronous Federated Learning](https://pdfs.semanticscholar.org/68ba/d34136b2b0c5e4c077c4b2c20b241326084e.pdf)
