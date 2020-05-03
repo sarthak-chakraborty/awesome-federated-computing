@@ -31,7 +31,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf), 2019
 * [Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf), preprint, 2019
   
-## Research Papers
+## Synchronous Federated Learning
 ### 2020
 * [Salvaging Federated Learning by Local Adaptation](https://arxiv.org/abs/2002.04758), prepreint
 * [Federated Learning of a Mixture of Global and Local Models](https://arxiv.org/abs/2002.05516), preprint
@@ -88,6 +88,16 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 ### 2015
 * [Privacy-Preserving Deep Learning](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf), ACM SIGSAC 2015
 
+## Asynchronous Federated Learning
+### 2020
+* [Privacy-Preserving Asynchronous Federated Learning Mechanism for Edge Network Computing](https://pdfs.semanticscholar.org/68ba/d34136b2b0c5e4c077c4b2c20b241326084e.pdf)
+* [Data-Driven, Bottom-up, Asynchronous Federated Learning](https://pdfs.semanticscholar.org/68ba/d34136b2b0c5e4c077c4b2c20b241326084e.pdf)
+* [EFFICIENT AND ROBUST ASYNCHRONOUS FEDER- ATED LEARNING WITH STRAGGLER](https://openreview.net/pdf?id=B1lL9grYDS)
+### 2019
+* [Asynchronous Federated Optimization](https://arxiv.org/pdf/1903.03934.pdf)
+* [Asynchronous Online Federated Learning for Edge Devices](https://arxiv.org/pdf/1911.02134.pdf)
+* [Asynchronous Federated Learning with Differential Privacy for Edge Intelligence](https://arxiv.org/pdf/1912.07902.pdf)
+
 ## Libraries/Frameworks
 * [Paddle Federated Learning](https://github.com/PaddlePaddle/PaddleFL) - Federated Deep Learning in PaddlePaddle.
 * [PySyft - Github](https://github.com/OpenMined/PySyft) - The PyTorch based library.
@@ -98,7 +108,8 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ## Tutorials
 * [PySyft](https://github.com/OpenMined/PySyft/tree/dev/examples/tutorials)
-* [TFF](https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification) 
+* [TFF](https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification)
+* [Asynchronous PySyft](https://blog.openmined.org/asynchronous-federated-learning-in-pysyft/)
 
 ## Datasets
 * [LEAF](https://github.com/TalwalkarLab/leaf)
