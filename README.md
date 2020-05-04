@@ -40,7 +40,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Salvaging Federated Learning by Local Adaptation](https://arxiv.org/abs/2002.04758), prepreint
 * [Federated Learning of a Mixture of Global and Local Models](https://arxiv.org/abs/2002.05516), preprint
 * [Federated Learning with Matched Averaging](https://arxiv.org/pdf/2002.06440.pdf), ICLR 2020
-* [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), ICLR 2020
+* <b>[On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), ICLR 2020</b>
 * [Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning](https://arxiv.org/abs/2003.09603), preprint
 * [Knowledge Federation: Hierarchy and Unification](https://arxiv.org/pdf/2002.01647.pdf), Preprint
 * [Decentralized Knowledge Acquisition for Mobile Internet Applications](https://link.springer.com/article/10.1007/s11280-019-00775-w), World Wide Web, Springer journal
