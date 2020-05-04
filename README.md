@@ -70,6 +70,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
 * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) preprint 2019
 * [Peer-to-peer Federated Learning on Graphs](https://arxiv.org/abs/1901.11173) preprint 
+* [Robust and Communication-Efficient Federated Learning from Non-IID Data](https://arxiv.org/pdf/1903.02891.pdf)
 ### 2018
 * [How to backdoor federated learning](https://arxiv.org/pdf/1807.00459), preprint
 * [Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge](https://arxiv.org/abs/1804.08333)
