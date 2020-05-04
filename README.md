@@ -94,14 +94,22 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ## Asynchronous FL
 ### 2020
-* [Privacy-Preserving Asynchronous Federated Learning Mechanism for Edge Network Computing](https://pdfs.semanticscholar.org/68ba/d34136b2b0c5e4c077c4b2c20b241326084e.pdf)
+* [Privacy-Preserving Asynchronous Federated Learning Mechanism for Edge Network Computing](https://pdfs.semanticscholar.org/68ba/d34136b2b0c5e4c077c4b2c20b241326084e.pdf), IEEE Access 2020
 * [Data-Driven, Bottom-up, Asynchronous Federated Learning](https://pdfs.semanticscholar.org/68ba/d34136b2b0c5e4c077c4b2c20b241326084e.pdf)
+  - Data driven trigger
+  - Bounding fairness
+  - Cluster devices to minimize bandwidth
+  - <b>Increased Communications</b>
 * [EFFICIENT AND ROBUST ASYNCHRONOUS FEDER- ATED LEARNING WITH STRAGGLER](https://openreview.net/pdf?id=B1lL9grYDS)
 ### 2019
 * [Asynchronous Federated Optimization](https://arxiv.org/pdf/1903.03934.pdf)
+  - Provable convergence under non-IID settings
+  - <b>Experiments only on MNIST</b>
 * [Asynchronous Online Federated Learning for Edge Devices](https://arxiv.org/pdf/1911.02134.pdf)
+  - Mitigates the straggler problem
+  - Learns inter-client relatedness (by adding a regularization term)
+  - <b>Experiments on weird datasets</b>
 * [Asynchronous Federated Learning with Differential Privacy for Edge Intelligence](https://arxiv.org/pdf/1912.07902.pdf)
-
 ## Libraries/Frameworks
 * [Paddle Federated Learning](https://github.com/PaddlePaddle/PaddleFL) - Federated Deep Learning in PaddlePaddle.
 * [PySyft - Github](https://github.com/OpenMined/PySyft) - The PyTorch based library.
