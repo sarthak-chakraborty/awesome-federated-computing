@@ -95,12 +95,13 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 ## Asynchronous FL
 ### 2020
 * [Privacy-Preserving Asynchronous Federated Learning Mechanism for Edge Network Computing](https://pdfs.semanticscholar.org/68ba/d34136b2b0c5e4c077c4b2c20b241326084e.pdf), IEEE Access 2020
+  - Dual weight correction to deal with staleness
 * [Data-Driven, Bottom-up, Asynchronous Federated Learning](https://pdfs.semanticscholar.org/68ba/d34136b2b0c5e4c077c4b2c20b241326084e.pdf)
   - Data driven trigger
   - Bounding fairness
   - Cluster devices to minimize bandwidth
   - <b>Increased Communications</b>
-* [EFFICIENT AND ROBUST ASYNCHRONOUS FEDER- ATED LEARNING WITH STRAGGLER](https://openreview.net/pdf?id=B1lL9grYDS)
+* [EFFICIENT AND ROBUST ASYNCHRONOUS FEDERATED LEARNING WITH STRAGGLER](https://openreview.net/pdf?id=B1lL9grYDS)
 ### 2019
 * [Asynchronous Federated Optimization](https://arxiv.org/pdf/1903.03934.pdf)
   - Provable convergence under non-IID settings
