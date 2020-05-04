@@ -97,6 +97,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 ### 2020
 * [Privacy-Preserving Asynchronous Federated Learning Mechanism for Edge Network Computing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9022982), IEEE Access 2020
   - Dual weight correction to deal with staleness
+  - <b>Experiments only on MNIST</b>
 * [Data-Driven, Bottom-up, Asynchronous Federated Learning](https://pdfs.semanticscholar.org/68ba/d34136b2b0c5e4c077c4b2c20b241326084e.pdf)
   - Data driven trigger
   - Bounding fairness
@@ -107,7 +108,6 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 ### 2019
 * [Asynchronous Federated Optimization](https://arxiv.org/pdf/1903.03934.pdf)
   - Provable convergence under non-IID settings
-  - <b>Experiments only on MNIST</b>
 * [Asynchronous Online Federated Learning for Edge Devices](https://arxiv.org/pdf/1911.02134.pdf)
   - Mitigates the straggler problem
   - Learns inter-client relatedness (by adding a regularization term)
