@@ -102,6 +102,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   - Cluster devices to minimize bandwidth
   - <b>Increased Communications</b>
 * [EFFICIENT AND ROBUST ASYNCHRONOUS FEDERATED LEARNING WITH STRAGGLER](https://openreview.net/pdf?id=B1lL9grYDS)
+  - Dynamic adjustment of epochs for stagglers
 ### 2019
 * [Asynchronous Federated Optimization](https://arxiv.org/pdf/1903.03934.pdf)
   - Provable convergence under non-IID settings
@@ -110,7 +111,6 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   - Mitigates the straggler problem
   - Learns inter-client relatedness (by adding a regularization term)
   - <b>Experiments on weird datasets</b>
-* [Asynchronous Federated Learning with Differential Privacy for Edge Intelligence](https://arxiv.org/pdf/1912.07902.pdf)
 ## Libraries/Frameworks
 * [Paddle Federated Learning](https://github.com/PaddlePaddle/PaddleFL) - Federated Deep Learning in PaddlePaddle.
 * [PySyft - Github](https://github.com/OpenMined/PySyft) - The PyTorch based library.
