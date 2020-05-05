@@ -107,12 +107,14 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   - Dynamic adjustment of epochs for stagglers
 ### 2019
 * [Asynchronous Federated Optimization](https://arxiv.org/pdf/1903.03934.pdf)
-  - Provable convergence under non-IID settings
+  - Showed convergence for convex and a restricted family of non-convergence problems
+  - Reducing the weight of stale gradients while averaging might lead to insignificant update of an important yet stale gradient
+  - Considers network-related staleness and ignores the effect of imbalanced data
+  - Performed experiments on equally sized local datasets; not a good representation of real-world data
 * [Asynchronous Online Federated Learning for Edge Devices](https://arxiv.org/pdf/1911.02134.pdf)
   - Mitigates the straggler problem
   - Learns inter-client relatedness (by adding a regularization term)
   - <b>Experiments on weird datasets</b>
-  - <b>Experments on balanced data with large number of examples per client aounr 10k avg </b>
 ## Libraries/Frameworks
 * [Paddle Federated Learning](https://github.com/PaddlePaddle/PaddleFL) - Federated Deep Learning in PaddlePaddle.
 * [PySyft - Github](https://github.com/OpenMined/PySyft) - The PyTorch based library.
